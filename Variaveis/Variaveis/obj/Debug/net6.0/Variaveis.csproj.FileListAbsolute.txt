@@ -1,0 +1,15 @@
+C:\temp\AprendaProgramar\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.exe
+C:\temp\AprendaProgramar\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.deps.json
+C:\temp\AprendaProgramar\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.runtimeconfig.json
+C:\temp\AprendaProgramar\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.dll
+C:\temp\AprendaProgramar\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.pdb
+C:\temp\AprendaProgramar\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.csproj.AssemblyReference.cache
+C:\temp\AprendaProgramar\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\AprendaProgramar\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.AssemblyInfoInputs.cache
+C:\temp\AprendaProgramar\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.AssemblyInfo.cs
+C:\temp\AprendaProgramar\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\temp\AprendaProgramar\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.dll
+C:\temp\AprendaProgramar\Variaveis\Variaveis\obj\Debug\net6.0\refint\Variaveis.dll
+C:\temp\AprendaProgramar\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.pdb
+C:\temp\AprendaProgramar\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.genruntimeconfig.cache
+C:\temp\AprendaProgramar\Variaveis\Variaveis\obj\Debug\net6.0\ref\Variaveis.dll

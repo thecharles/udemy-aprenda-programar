@@ -1,0 +1,15 @@
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\bin\Debug\net6.0\02_Exercicios.exe
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\bin\Debug\net6.0\02_Exercicios.deps.json
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\bin\Debug\net6.0\02_Exercicios.runtimeconfig.json
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\bin\Debug\net6.0\02_Exercicios.dll
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\bin\Debug\net6.0\02_Exercicios.pdb
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\obj\Debug\net6.0\02_Exercicios.csproj.AssemblyReference.cache
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\obj\Debug\net6.0\02_Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\obj\Debug\net6.0\02_Exercicios.AssemblyInfoInputs.cache
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\obj\Debug\net6.0\02_Exercicios.AssemblyInfo.cs
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\obj\Debug\net6.0\02_Exercicios.csproj.CoreCompileInputs.cache
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\obj\Debug\net6.0\02_Exercicios.dll
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\obj\Debug\net6.0\refint\02_Exercicios.dll
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\obj\Debug\net6.0\02_Exercicios.pdb
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\obj\Debug\net6.0\02_Exercicios.genruntimeconfig.cache
+C:\temp\AprendaProgramar\02_Exercicios\02_Exercicios\obj\Debug\net6.0\ref\02_Exercicios.dll

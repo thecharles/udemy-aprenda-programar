@@ -1,0 +1,15 @@
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net6.0\MeuPrimeiroPrograma.exe
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net6.0\MeuPrimeiroPrograma.deps.json
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net6.0\MeuPrimeiroPrograma.runtimeconfig.json
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net6.0\MeuPrimeiroPrograma.dll
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net6.0\MeuPrimeiroPrograma.pdb
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.csproj.AssemblyReference.cache
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.AssemblyInfoInputs.cache
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.AssemblyInfo.cs
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.dll
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net6.0\refint\MeuPrimeiroPrograma.dll
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.pdb
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.genruntimeconfig.cache
+C:\temp\AprendaProgramar\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net6.0\ref\MeuPrimeiroPrograma.dll

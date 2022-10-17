@@ -1,0 +1,15 @@
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\bin\Debug\net6.0\DepurandoCodigo.exe
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\bin\Debug\net6.0\DepurandoCodigo.deps.json
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\bin\Debug\net6.0\DepurandoCodigo.runtimeconfig.json
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\bin\Debug\net6.0\DepurandoCodigo.dll
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\bin\Debug\net6.0\DepurandoCodigo.pdb
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\obj\Debug\net6.0\DepurandoCodigo.csproj.AssemblyReference.cache
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\obj\Debug\net6.0\DepurandoCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\obj\Debug\net6.0\DepurandoCodigo.AssemblyInfoInputs.cache
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\obj\Debug\net6.0\DepurandoCodigo.AssemblyInfo.cs
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\obj\Debug\net6.0\DepurandoCodigo.csproj.CoreCompileInputs.cache
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\obj\Debug\net6.0\DepurandoCodigo.dll
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\obj\Debug\net6.0\refint\DepurandoCodigo.dll
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\obj\Debug\net6.0\DepurandoCodigo.pdb
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\obj\Debug\net6.0\DepurandoCodigo.genruntimeconfig.cache
+C:\temp\AprendaProgramar\DepurandoCodigo\DepurandoCodigo\obj\Debug\net6.0\ref\DepurandoCodigo.dll

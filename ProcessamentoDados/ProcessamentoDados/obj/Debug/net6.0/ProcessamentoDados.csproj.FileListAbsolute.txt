@@ -1,0 +1,15 @@
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\bin\Debug\net6.0\ProcessamentoDados.exe
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\bin\Debug\net6.0\ProcessamentoDados.deps.json
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\bin\Debug\net6.0\ProcessamentoDados.runtimeconfig.json
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\bin\Debug\net6.0\ProcessamentoDados.dll
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\bin\Debug\net6.0\ProcessamentoDados.pdb
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.csproj.AssemblyReference.cache
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.AssemblyInfoInputs.cache
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.AssemblyInfo.cs
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.csproj.CoreCompileInputs.cache
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.dll
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\obj\Debug\net6.0\refint\ProcessamentoDados.dll
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.pdb
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.genruntimeconfig.cache
+C:\temp\AprendaProgramar\ProcessamentoDados\ProcessamentoDados\obj\Debug\net6.0\ref\ProcessamentoDados.dll
